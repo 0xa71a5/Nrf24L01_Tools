@@ -11,3 +11,4 @@ Nrf24L01     Arduino<br>
 5             13<br>
 6             11<br>
 7             12<br>
+It's very important to add a capacity (20uF+) to the +3.3v power input of nrf24L01.Otherwise,problems may arise.
